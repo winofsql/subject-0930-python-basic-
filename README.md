@@ -256,7 +256,6 @@ pip install qrcode
 
 QRコードの画像作成
 
-basic035.py
 ```python
 import qrcode
 
