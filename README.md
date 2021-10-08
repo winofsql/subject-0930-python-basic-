@@ -1,4 +1,4 @@
-# subject-0929-python-basic 
+# subject-0930-python-basic 
 2021/09/30(木)の午前に実施したPythonプログラム
 
 ## ■ ファイルオブジェクト
